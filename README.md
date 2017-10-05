@@ -6,7 +6,10 @@ If I have questions, I can talk to my music teacher or one of my friends.
 
 2.  I'm finding it easier to write music when I try to represent whatever emotion I'm feeling at the time.
 So far I have written a short phrase for one instrument that I can possibly use in my music, and determined a chord that goes with it.
-(Markdowntutorial.com)
+######(Markdowntutorial.com)
 
 ## Week 2
 I have written 11 bars for the flute and 11 bars for the clarinet that goes with it.  I also wrote another short section for the clarinet.  It's easiest to write down anything I think of then go through after to edit it (change the note, the length, decide where to put it in the song.)  I find that if I put it down and come back to it a few hours later its easier to come up with new ideas.
+
+## Week 3
+This week I haven't made much progess.  I have been working with the introduction and trying to decide if I want to change keys.  I have been figuring out what works well when the clarinet and flute are playing together.
