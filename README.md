@@ -13,3 +13,6 @@ I have written 11 bars for the flute and 11 bars for the clarinet that goes with
 
 ## Week 3
 This week I haven't made much progess.  I have been working with the introduction and trying to decide if I want to change keys.  I have been figuring out what works well when the clarinet and flute are playing together.
+
+## Week 4
+This week I have continued figuring out which notes sound good when played together. I have decided I will just have the flute and clarinet, no piano.
