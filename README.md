@@ -16,3 +16,6 @@ This week I haven't made much progess.  I have been working with the introductio
 
 ## Week 4
 This week I have continued figuring out which notes sound good when played together. I have decided I will just have the flute and clarinet, no piano.
+
+## Week 5
+This week I realised I had to change the key of the song to get the sound that I want.  I rewrote part of the beginning so that there is no longer so much going on.  I am trying to use call and response in the music.
