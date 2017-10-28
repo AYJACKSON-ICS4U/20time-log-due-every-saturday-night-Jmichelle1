@@ -19,3 +19,6 @@ This week I have continued figuring out which notes sound good when played toget
 
 ## Week 5
 This week I realised I had to change the key of the song to get the sound that I want.  I rewrote part of the beginning so that there is no longer so much going on.  I am trying to use call and response in the music.
+
+## Week 6
+This week I haven't done much work on the music. I'm deciding if I want to possibly use ABA form and possibly change the style of the middle of the piece.  I'm going to use MuseScore to write my good copy of the music.
