@@ -22,3 +22,6 @@ This week I realised I had to change the key of the song to get the sound that I
 
 ## Week 6
 This week I haven't done much work on the music. I'm deciding if I want to possibly use ABA form and possibly change the style of the middle of the piece.  I'm going to use MuseScore to write my good copy of the music.
+
+## Week 7
+I added the files for the electronic copies of the music I wrote. JordanSongBoth has the flute and clarinet parts, all three files need to be opened in musescore 2
