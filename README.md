@@ -29,3 +29,4 @@ This week I haven't done much work on the music. I'm deciding if I want to possi
 
 ## Week 8
 Listening to my song on musescore, I noticed the transitions between some phrases don't quite work, so I'm working on changing them / adding a bar in between.
+![Screen shot of my song so far](Screen Shot 2017-11-12 at 4.17.50 PM.png)
