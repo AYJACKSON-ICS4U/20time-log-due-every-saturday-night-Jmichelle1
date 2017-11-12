@@ -26,3 +26,6 @@ This week I haven't done much work on the music. I'm deciding if I want to possi
 ## Week 7
 1. I added the files for the electronic copies of the music I wrote. JordanSongBoth has the flute and clarinet parts, all three files need to be opened in musescore 2
 2. I realized that the flute can play higher than I thought, so I was able to have the flute play some of what I had the clarinet playing originally. I had to then change the clarinet part for that bar, but I still have not quite found the right sound.
+
+## Week 8
+Listening to my song on musescore, I noticed the transitions between some phrases don't quite work, so I'm working on changing them / adding a bar in between.
