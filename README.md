@@ -30,3 +30,6 @@ This week I haven't done much work on the music. I'm deciding if I want to possi
 ## Week 8
 Listening to my song on musescore, I noticed the transitions between some phrases don't quite work, so I'm working on changing them / adding a bar in between.
 ![Screen shot of my song so far](PM.png)
+
+## Week 9
+I smoothed out a transition between ideas in my song. Other than that, I haven't made much progress this week. I'm contemplating making a website where I can give people ideas on how to write a song with multiple instruments, based off of my experience.
