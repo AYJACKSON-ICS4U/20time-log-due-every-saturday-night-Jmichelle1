@@ -33,3 +33,7 @@ Listening to my song on musescore, I noticed the transitions between some phrase
 
 ## Week 9
 I smoothed out a transition between ideas in my song. Other than that, I haven't made much progress this week. I'm contemplating making a website where I can give people ideas on how to write a song with multiple instruments, based off of my experience.
+
+## Week 10
+I haven't made much progress. I updated my to-do lists and the wiki.
+
