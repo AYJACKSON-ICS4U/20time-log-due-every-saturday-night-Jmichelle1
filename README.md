@@ -42,8 +42,7 @@ I changed some notes in a phrase so that the song sounds smoother.  I've learned
 
 
 
-|Instrument|note|note|note|note|note|note|note|note|note|note|note|
-|--------|---|---|---|---|---|---|---|---|---|---|---|
+
 |Flute   |  A| A#|  B| C | D |D# | E |  F|F# |G  |G# |
 |Clarinet|  B|  C| C#| D | D#| E | F#|G  |G# | A |A# |
 
