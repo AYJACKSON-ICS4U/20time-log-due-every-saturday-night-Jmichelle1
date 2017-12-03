@@ -39,11 +39,9 @@ I haven't made much progress. I updated my to-do lists and the wiki.
 
 ## Week 11
 I changed some notes in a phrase so that the song sounds smoother.  I've learned that it helps to to write down all the notes for the flute and then for the clarinet:
-|        |   |   |   |   |   |   |   |   |   |   |   |
+|Instrument|note|note|note|note|note|note|note|note|note|note|note|
 |--------|---|---|---|---|---|---|---|---|---|---|---|
-
 |Flute   |  A| A#|  B| C | D |D# | E |  F|F# |G  |G# |
-
 |Clarinet|  B|  C| C#| D | D#| E | F#|G  |G# | A |A# |
 
 
