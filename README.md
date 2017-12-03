@@ -37,3 +37,14 @@ I smoothed out a transition between ideas in my song. Other than that, I haven't
 ## Week 10
 I haven't made much progress. I updated my to-do lists and the wiki.
 
+## Week 11
+I changed some notes in a phrase so that the song sounds smoother.  I've learned that it helps to to write down all the notes for the flute and then for the clarinet:
+
+
+Flute     A  A#  B   C  D   D#  E   F  F#  G  G#
+
+Clarinet  B  C   C#  D  D#  E   F#  G  G#  A  A#
+
+
+This way I can easily transpose from one instrument to the other. It also helps me figure out which notes sound good when played together.
+
