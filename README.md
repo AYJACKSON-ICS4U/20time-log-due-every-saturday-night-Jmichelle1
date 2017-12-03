@@ -42,8 +42,8 @@ I changed some notes in a phrase so that the song sounds smoother.  I've learned
 
 
 
-
 |Flute   |  A| A#|  B| C | D |D# | E |  F|F# |G  |G# |
+|--------|---|---|---|---|---|---|---|---|---|---|---|
 |Clarinet|  B|  C| C#| D | D#| E | F#|G  |G# | A |A# |
 
 
