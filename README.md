@@ -50,3 +50,8 @@ I changed some notes in a phrase so that the song sounds smoother.  I've learned
 
 This way I can easily transpose from one instrument to the other. It also helps me figure out which notes sound good when played together.
 
+## Week 12
+I haven't made much progress. I have been thinking of what I want to  include in my presentation.
+
+## Week 13
+I have started writing my presentation for the project.
