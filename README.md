@@ -55,3 +55,6 @@ I haven't made much progress. I have been thinking of what I want to  include in
 
 ## Week 13
 I have started writing my presentation for the project.
+
+## Week 14, 15, 16
+The last three weeks I have finished making my presentation.
